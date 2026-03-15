@@ -11,4 +11,4 @@ I am a goal-oriented leader currently spearheading **The Success Lobby** project
 * **Key Skills:** Team Leadership, Strategic Planning, and UI/UX Wireframing.
 
 ### 🤝 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/lynnette-ray) | [Handshake]([https://cpcc.joinhandshake.com/edu](https://cpcc.joinhandshake.com/profiles/lynnette))
+[LinkedIn](https://www.linkedin.com/in/lynnette-ray) | [Handshake](https://cpcc.joinhandshake.com/profiles/lynnette)
