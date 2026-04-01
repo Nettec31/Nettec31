@@ -12,3 +12,10 @@ I am a goal-oriented leader currently spearheading **The Success Lobby** project
 
 ### 🤝 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/lynnette-ray) | [Handshake](https://cpcc.joinhandshake.com/profiles/lynnette)
+---
+
+### 💻 Technical Foundations
+I am currently mastering core programming logic across multiple languages to build a rigorous foundation for AI research.
+* **Java:** [Java Programming Logic](https://github.com/cengage-csp-students-prod-4/Java-Programming-Logic)
+* **Python:** [Python Programming Logic](https://github.com/cengage-csp-students-prod-4/Python-Programming-Logic)
+* **C++:** [CPP-Programming-Logic](https://github.com/cengage-csp-students-prod-4/CPP-Programming-Logic)
